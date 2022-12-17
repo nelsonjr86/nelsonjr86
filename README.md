@@ -9,9 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/nelsonjr86">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=nelsonjr86&show_icons=true&theme=chartreuse-dark&count_private=true"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjr86&count_private=true&theme=chartreuse-dark"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjr86&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nelsonjr86&show_icons=true&theme=chartreuse-dark&count_private=true"/>
+  <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjr86&count_private=true&theme=chartreuse-dark"/>-->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjr86&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
